@@ -1,0 +1,12 @@
+/.venv
+/.vscode
+/1_main.py
+/2_post.py
+/3_depend_inject.py
+/4_main2.py
+/5_CRUD
+/database.py
+/desktop.ini
+/gemz_api
+/sql_app.db
+/__pycache__
